@@ -1,0 +1,14 @@
+# Operating System metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor artifacts
+.vscode/
+.idea/
+*.swp
+
+# Drafts and private notes
+personal_notes/
+drafts/
+*.local.md
